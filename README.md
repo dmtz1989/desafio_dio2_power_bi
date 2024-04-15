@@ -1,4 +1,4 @@
-# desafio_dio2_power_bi# Desafio "Processando e Transformando Dados com Power BI"
+# Desafio "Processando e Transformando Dados com Power BI"
 
 #### Como parte da resolução do desafio proposto pela DIO, será informado o passo a passo para a realização do Desafio.
 ###### Após a criação da conta no Azure, configuração e Integração com o Power BI, foi realizado o processamento dos dados e juntamente com a manipulação deles.
